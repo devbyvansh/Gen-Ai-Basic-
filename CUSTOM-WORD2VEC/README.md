@@ -1,6 +1,6 @@
 # Custom Word2Vec
 
-## Overview
+## Overview of the Work
 This project demonstrates how to train a custom Word2Vec model using the Gensim library on a custom text corpus.
 
 ## Topics Covered
