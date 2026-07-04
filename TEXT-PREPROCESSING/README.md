@@ -1,6 +1,6 @@
 # Text Preprocessing
 
-## Overview
+## Overview of the Text Preprocessing
 
 This project demonstrates the fundamental text preprocessing techniques used in Natural Language Processing (NLP) to clean and prepare raw text for machine learning and deep learning models.
 
@@ -23,4 +23,4 @@ This project demonstrates the fundamental text preprocessing techniques used in 
 ## Files
 
 - `Preprocessing.ipynb` – Implementation of text preprocessing techniques
-- `review.csv` – Sample dataset used for preprocessing
+- `review.csv` – Sample dataset used for preprocessing 
