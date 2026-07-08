@@ -18,4 +18,4 @@ This project demonstrates how to train a custom Word2Vec model using the Gensim 
 ## Files
 - `word2vec_custom.ipynb` – Model training and experiments
 - `animals.txt` – Sample text corpus
-- `technology.txt` – Sample text corpus
+- `technology.txt` – Sample text corpus(documents)
