@@ -38,5 +38,5 @@ Euclidean Distance measures the straight-line distance between two vectors in a 
 
 ## Files
 
-- `Semantic_Keyword_Search.ipynb` – Implementation of keyword search, semantic search, and similarity metrics.
-- `README.md` – Project documentation.
+- `Semantic_Keyword_Search.ipynb` – Implementation of keyword search, semantic search, and similarity metrics
+- `README.md` – Project documentation
