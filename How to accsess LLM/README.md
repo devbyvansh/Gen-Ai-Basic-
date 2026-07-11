@@ -32,3 +32,4 @@ This project demonstrates different ways to access Large Language Models (LLMs) 
 
 - `access-diff-llm.ipynb` – Implementation and notes for accessing different LLM providers and multimodal models.
 - `README.md` – Project documentation.
+Last updated: 11 July 2026
