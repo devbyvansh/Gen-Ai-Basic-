@@ -61,4 +61,4 @@ TF-IDF measures how important a word is in a document compared to the entire col
 ### Conclusion
 - **One-Hot Encoding** represents words as binary vectors.
 - **Bag of Words** represents documents using word counts.
-- **TF-IDF** gives higher weight to important words and lower weight to common words, making it more informative than Bag of Words.   
+- **TF-IDF** gives higher weight to important words and lower weight to common words, making it more informative than Bag of Words.        
