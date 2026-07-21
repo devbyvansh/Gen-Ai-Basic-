@@ -1,0 +1,21 @@
+Employee_ID,First_Name,Last_Name,Age,Department,City,Salary_USD,Experience_Years,Performance_Rating
+EMP1001,Alice,Anderson,32,Sales,New York,110325,5,4.9
+EMP1002,Hannah,Clark,41,Operations,London,53741,15,4.4
+EMP1003,Brian,Brown,32,Marketing,New York,87375,4,4.0
+EMP1004,Brian,Smith,38,Sales,New York,80370,6,3.6
+EMP1005,Hannah,Brown,48,Finance,London,119221,12,3.4
+EMP1006,George,Walker,38,Operations,London,62811,15,3.1
+EMP1007,Brian,Lee,22,HR,Toronto,56152,1,4.8
+EMP1008,George,Clark,25,Sales,Berlin,88979,12,2.6
+EMP1009,George,Anderson,35,Finance,Toronto,71161,1,4.3
+EMP1010,Julia,Taylor,26,HR,New York,100006,21,2.6
+EMP1011,Julia,Johnson,31,HR,Sydney,62442,6,3.8
+EMP1012,George,Johnson,33,Marketing,Berlin,79439,14,3.7
+EMP1013,Alice,Smith,36,Operations,Singapore,56017,14,3.6
+EMP1014,George,Wilson,24,Sales,Berlin,67483,18,3.2
+EMP1015,George,Martin,26,Sales,Sydney,100091,6,4.1
+EMP1016,Emma,Clark,24,Marketing,Singapore,95578,4,2.6
+EMP1017,Hannah,Lee,22,HR,Toronto,112476,13,2.7
+EMP1018,Ivan,Anderson,23,Marketing,New York,52571,12,3.9
+EMP1019,Hannah,Martin,35,Finance,Toronto,104121,10,3.5
+EMP1020,George,Martin,24,IT,Singapore,77535,13,2.6

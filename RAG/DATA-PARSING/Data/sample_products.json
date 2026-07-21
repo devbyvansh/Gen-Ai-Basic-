@@ -1,0 +1,126 @@
+{
+    "store": "Demo Store",
+    "country": "USA",
+    "products": [
+        {
+            "product_id": "P001",
+            "name": "Product 1",
+            "category": "Electronics",
+            "price": 162.6,
+            "in_stock": false,
+            "rating": 4.4,
+            "tags": [
+                "popular",
+                "discount"
+            ]
+        },
+        {
+            "product_id": "P002",
+            "name": "Product 2",
+            "category": "Sports",
+            "price": 212.06,
+            "in_stock": false,
+            "rating": 4.5,
+            "tags": [
+                "eco-friendly",
+                "discount"
+            ]
+        },
+        {
+            "product_id": "P003",
+            "name": "Product 3",
+            "category": "Clothing",
+            "price": 469.4,
+            "in_stock": false,
+            "rating": 4.2,
+            "tags": [
+                "discount",
+                "premium"
+            ]
+        },
+        {
+            "product_id": "P004",
+            "name": "Product 4",
+            "category": "Sports",
+            "price": 106.47,
+            "in_stock": false,
+            "rating": 3.4,
+            "tags": [
+                "eco-friendly",
+                "discount"
+            ]
+        },
+        {
+            "product_id": "P005",
+            "name": "Product 5",
+            "category": "Clothing",
+            "price": 82.8,
+            "in_stock": true,
+            "rating": 4.6,
+            "tags": [
+                "new",
+                "popular"
+            ]
+        },
+        {
+            "product_id": "P006",
+            "name": "Product 6",
+            "category": "Sports",
+            "price": 73.0,
+            "in_stock": false,
+            "rating": 4.6,
+            "tags": [
+                "new",
+                "popular"
+            ]
+        },
+        {
+            "product_id": "P007",
+            "name": "Product 7",
+            "category": "Sports",
+            "price": 256.92,
+            "in_stock": false,
+            "rating": 4.4,
+            "tags": [
+                "discount",
+                "popular"
+            ]
+        },
+        {
+            "product_id": "P008",
+            "name": "Product 8",
+            "category": "Electronics",
+            "price": 156.26,
+            "in_stock": false,
+            "rating": 3.3,
+            "tags": [
+                "eco-friendly",
+                "premium"
+            ]
+        },
+        {
+            "product_id": "P009",
+            "name": "Product 9",
+            "category": "Home",
+            "price": 343.05,
+            "in_stock": false,
+            "rating": 3.7,
+            "tags": [
+                "popular",
+                "new"
+            ]
+        },
+        {
+            "product_id": "P010",
+            "name": "Product 10",
+            "category": "Books",
+            "price": 20.9,
+            "in_stock": true,
+            "rating": 4.7,
+            "tags": [
+                "popular",
+                "new"
+            ]
+        }
+    ]
+}

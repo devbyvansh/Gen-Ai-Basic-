@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is transforming the way people interact with technology. It enables computers to perform tasks such as language understanding, image recognition, and decision-making.
+Machine Learning (ML) is a branch of AI that allows computers to learn from data without being explicitly programmed. ML models identify patterns in historical data and use them to make predictions or decisions.
+Natural Language Processing (NLP) is a field of AI that focuses on enabling computers to understand, interpret, and generate human language. Applications of NLP include chatbots, language translation, sentiment analysis, and text summarization.
+Deep Learning is a specialized area of Machine Learning that uses artificial neural networks with multiple layers. It has achieved remarkable success in computer vision, speech recognition, and generative AI applications.
+Today, AI technologies are widely used across industries such as healthcare, finance, education, e-commerce, and transportation. As AI continues to evolve, it is helping organizations automate repetitive tasks, improve decision-making, and develop innovative solutions for real-world challenges.
