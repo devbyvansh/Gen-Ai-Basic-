@@ -19,4 +19,4 @@ langchain-groq
 langchain-openrouter
 langchain-huggingface
 langchain-community
-pypdf
+pypdf. 
