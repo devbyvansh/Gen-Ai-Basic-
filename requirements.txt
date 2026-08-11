@@ -20,3 +20,4 @@ langchain-openrouter
 langchain-huggingface
 langchain-community
 pypdf  
+       
